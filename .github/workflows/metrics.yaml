@@ -144,3 +144,4 @@ jobs:
           template: classic
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
+          plugin_traffic: yes
