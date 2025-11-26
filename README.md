@@ -1,25 +1,21 @@
-<a href="https://github.com/seafoodfry">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/seafoodfry">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/seafoodfry">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
+# 👋 Hey, I'm Jorge
 
-<a href="https://github.com/seafoodfry">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
+I'm a staff lvl Engineer trying to make software engineering a tad simpler, a tad more reliable, and a tad more pleasant to work with.
 
-<a href="https://github.com/seafoodfry">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
+---
+## 🎯 Professional stuff I['ve] do[ne]
 
-<a href="https://github.com/seafoodfry">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/seafoodfry">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
+- 📊 **Data Engineering** - Making sense of the chaos
+- ⚡ **Backend Development** - Distributed systems that scale
+- 🔭 **Observability** - Full stack visibility from GPU to frontend
+- 🏗️ **Infrastructure** - On-prem and cloud-native architecture (AWS, GCP, and Azure)
+
+Other things to know about me: I think honeycomb is the best thing ever and eBPF is amaze.
+
+---
+## 🌍 Beyond code
+
+- 🗣️ Learning languages: 中文 | 日本語 | Française | Deutsch | Italiano
+- 📚 Macroeconomics - got a thing for the Fed  
+- 🔗 Side projects in blockchain and stablecoin
+- 🎯 Almost always tinkering with something new
