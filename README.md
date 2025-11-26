@@ -6,6 +6,7 @@ I'm a staff lvl Engineer trying to make software engineering a tad simpler, a ta
 ## 🎯 Professional stuff I['ve] do[ne]
 
 - 📊 **Data Engineering** - Making sense of the chaos
+- 🧪 **Data Science** - sklearn poweruser, bit into computer vision
 - ⚡ **Backend Development** - Distributed systems that scale
 - 🔭 **Observability** - Full stack visibility from GPU to frontend
 - 🏗️ **Infrastructure** - On-prem and cloud-native architecture (AWS, GCP, and Azure)
