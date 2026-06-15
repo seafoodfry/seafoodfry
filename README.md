@@ -18,5 +18,4 @@ Other things to know about me: I think honeycomb is the best thing ever and eBPF
 
 - 🗣️ Learning languages: 中文 | 日本語 | Français | Deutsch | Italiano
 - 📚 Macroeconomics - got a thing for the Fed  
-- 🔗 Side projects in blockchain and stablecoin
 - 🎯 Almost always tinkering with something new
